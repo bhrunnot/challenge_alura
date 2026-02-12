@@ -53,7 +53,7 @@ Durante a análise, foram geradas visualizações para facilitar a interpretaç�
 
 ### 🏆 Produto Mais Vendido por Loja
 
-<img src="imagens/avaliacao_media.png" width="500">
+<img src="imagens/prod_vend.png" width="500">
 
 
 ### 🔎 Principais Insights
