@@ -41,6 +41,21 @@ Durante a análise, foram geradas visualizações para facilitar a interpretaç�
 - Média de avaliação dos clientes
 - Produto mais vendido por loja
 
+## 📊 Visualizações
+
+### 💰 Faturamento Total por Loja
+
+<img src="imagens/faturamento.png" width="400">
+
+### ⭐ Média de Avaliação por Loja
+
+<img src="imagens/avaliacao_media.png" width="500">
+
+### 🏆 Produto Mais Vendido por Loja
+
+<img src="imagens/avaliacao_media.png" width="500">
+
+
 ### 🔎 Principais Insights
 
 - A Loja 1 apresentou o maior faturamento.
